@@ -22,7 +22,6 @@
     "alwaysStrict": true,
     "strictNullChecks": true,
     "noImplicitAny": true,
-    "noImplicitThis": true,
     // ======================================================================
     // Type Safety - Advanced
     // Additional checks for higher code quality
